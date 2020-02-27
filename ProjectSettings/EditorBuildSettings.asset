@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/Entrance.unity
+    guid: 700c4b07efbfd294abd4e8bf5985c8fe
+  - enabled: 1
+    path: Assets/scenes/LevelA.unity
+    guid: 1f6044a10ba92254c977ceaf433b871f
+  - enabled: 1
+    path: Assets/scenes/LevelB.unity
+    guid: 846677105aeb3f34ea2e6fec48b0f391
+  - enabled: 1
+    path: Assets/scenes/LevelC.unity
+    guid: d4ef4d2c607139e4790a76d20ce3179a
+  - enabled: 1
+    path: Assets/scenes/LevelD.unity
+    guid: 208dd0043aaa77c44be4d53ef6930265
+  - enabled: 1
+    path: Assets/scenes/LevelE.unity
+    guid: d55583215ba049141b3030f9f877ea16
+  - enabled: 1
+    path: Assets/scenes/LevelF.unity
+    guid: 9ef8ac23c61560b4a85a410a256ad00b
+  - enabled: 1
+    path: Assets/scenes/Training.unity
+    guid: e223db273f393e64f81d79ec425230d9
+  - enabled: 1
+    path: Assets/scenes/WaitingRoom.unity
+    guid: cb3deceed99f102429b3761116c05d78
+  m_configObjects: {}
